@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="medusko_navy">#FF0E131D</color>
+    <color name="medusko_surface">#FF171E2C</color>
+    <color name="medusko_surface_variant">#FF20293C</color>
+    <color name="medusko_border">#FF2D3952</color>
+    <color name="medusko_gold">#FFE89D24</color>
+    <color name="medusko_orange">#FFF28A0C</color>
+    <color name="medusko_blue">#FF38BDF8</color>
+    <color name="medusko_green">#FF00C853</color>
+    <color name="medusko_red">#FFFF3D57</color>
+    <color name="medusko_text_primary">#FFF3F5FA</color>
+    <color name="medusko_text_secondary">#FF9CA6BA</color>
+</resources>

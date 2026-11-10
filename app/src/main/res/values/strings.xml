@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Rivla</string>
+    <string name="widget_title">Rivla 4x2 Energy Grid</string>
+    <string name="widget_description">4x2 Home &amp; Lock Screen widget displaying up to 4 EV &amp; Powerwall battery levels in a 2x2 grid (BYOK On-Device).</string>
+</resources>
